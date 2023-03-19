@@ -58,7 +58,7 @@ To install the dependencies for the latest gym MuJoCo environments use `pip inst
 
 ## Citation
 
-A whitepaper from when Gym just came out is available https://arxiv.org/pdf/1606.01540, and can be cited with the following bibtex entry:
+A whitepaper from when Gym just came out is available [here](https://arxiv.org/pdf/1606.01540), and can be cited with the following bibtex entry:
 
 ```
 @misc{1606.01540,
